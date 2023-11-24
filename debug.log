@@ -1,0 +1,1843 @@
+2023-11-23 12:47:40,356 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 13:06:05,476 django.request WARNING  Not Found: /register/
+2023-11-23 13:06:05,861 django.request WARNING  Not Found: /favicon.ico
+2023-11-23 13:06:09,968 django.request WARNING  Not Found: /register
+2023-11-23 13:07:49,007 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-23 13:07:53,989 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 13:07:56,884 django.request WARNING  Not Found: /favicon.ico
+2023-11-23 13:08:01,017 django.request WARNING  Not Found: /favicon.ico
+2023-11-23 13:08:01,663 django.request WARNING  Not Found: /favicon.ico
+2023-11-23 13:08:01,937 django.request WARNING  Not Found: /favicon.ico
+2023-11-23 13:08:02,415 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-23 13:08:06,426 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 13:08:49,608 django.request WARNING  Not Found: /favicon.ico
+2023-11-23 13:08:50,619 django.request WARNING  Not Found: /favicon.ico
+2023-11-23 13:09:14,777 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-23 13:09:18,981 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 13:09:25,357 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-23 13:09:29,161 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 13:09:32,063 django.request WARNING  Not Found: /favicon.ico
+2023-11-23 13:10:35,962 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-23 13:10:39,743 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 13:10:52,494 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-23 13:10:55,931 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 13:11:01,705 django.request WARNING  Not Found: /favicon.ico
+2023-11-23 13:11:02,018 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-23 13:11:06,550 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 13:11:14,069 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-23 13:11:16,499 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 13:15:55,919 django.request WARNING  Method Not Allowed: /api/user/register
+2023-11-23 13:43:02,965 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 13:43:05,110 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 13:43:36,361 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 13:43:37,487 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 13:44:00,184 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 13:44:01,431 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 13:44:17,576 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 13:44:18,746 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 13:44:21,443 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 13:44:22,524 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 13:44:25,924 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 13:44:27,350 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 13:56:07,961 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 13:58:06,134 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 13:59:57,963 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 13:59:59,792 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 14:00:05,124 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 14:00:06,720 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 14:00:09,671 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 14:00:11,517 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 14:01:01,557 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 14:01:03,444 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 14:01:11,922 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 14:01:13,644 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 14:01:20,789 django.request WARNING  Not Found: /favicon.ico
+2023-11-23 14:01:49,056 django.request WARNING  Method Not Allowed: /api/user/register
+2023-11-23 14:02:07,827 django.request WARNING  Bad Request: /api/user/register
+2023-11-23 14:02:24,669 django.request WARNING  Bad Request: /api/user/register
+2023-11-23 14:02:53,388 django.request WARNING  Bad Request: /api/user/register
+2023-11-23 14:03:08,467 django.request ERROR    Internal Server Error: /api/user/register
+Traceback (most recent call last):
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py", line 55, in create
+    user = get_user_model().objects.create_user(email=email, password=password, phone_number=phone_number)
+TypeError: APIUserManager.create_user() got an unexpected keyword argument 'email'
+2023-11-23 14:25:28,055 django.request WARNING  Method Not Allowed: /api/user/register
+2023-11-23 14:25:30,057 django.request WARNING  Method Not Allowed: /api/user/register
+2023-11-23 14:25:41,769 django.request ERROR    Internal Server Error: /api/user/register
+Traceback (most recent call last):
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py", line 55, in create
+    user = get_user_model().objects.create_user(email=email, password=password, phone_number=phone_number)
+TypeError: APIUserManager.create_user() got an unexpected keyword argument 'email'
+2023-11-23 14:27:27,345 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 14:27:28,674 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 14:27:31,449 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 14:27:32,797 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 14:27:46,179 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 14:27:47,253 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 14:28:15,993 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 14:28:17,001 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 14:28:19,816 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 14:28:20,953 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 14:28:29,821 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 14:28:30,820 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 14:28:39,100 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 14:28:40,191 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 14:28:54,460 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 14:28:55,453 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 14:29:28,278 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 14:29:29,123 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 14:29:38,686 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 14:29:39,679 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 14:29:43,088 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 14:29:44,289 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 14:29:49,247 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 14:29:50,436 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 14:29:53,398 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 14:29:54,396 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 14:32:05,138 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 14:32:06,227 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 14:32:56,340 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 14:32:57,259 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 14:33:40,827 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 14:33:41,816 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 14:33:44,350 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 14:33:45,455 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 14:33:48,633 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 14:33:49,677 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 14:34:16,118 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 14:34:16,898 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 14:34:19,780 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 14:34:20,865 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 14:37:16,535 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\serializers.py changed, reloading.
+2023-11-23 14:37:17,918 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 14:37:29,004 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\serializers.py changed, reloading.
+2023-11-23 14:37:29,981 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 14:37:43,974 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\serializers.py changed, reloading.
+2023-11-23 14:37:44,972 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 14:39:53,598 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 14:40:00,374 django.request WARNING  Method Not Allowed: /api/user/register
+2023-11-23 14:40:24,165 django.request WARNING  Bad Request: /api/user/register
+2023-11-23 14:40:51,666 django.request ERROR    Internal Server Error: /api/user/register
+Traceback (most recent call last):
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py", line 52, in create
+    user = get_user_model().objects.create_user(email=email, password=password, phone_number=phone_number)
+TypeError: APIUserManager.create_user() got an unexpected keyword argument 'email'
+2023-11-23 14:44:37,557 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\models.py changed, reloading.
+2023-11-23 14:44:38,408 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 14:44:46,644 django.request WARNING  Not Found: /favicon.ico
+2023-11-23 14:46:13,806 django.request WARNING  Bad Request: /api/user/register
+2023-11-23 14:46:21,991 django.request WARNING  Bad Request: /api/user/register
+2023-11-23 14:46:46,924 django.request WARNING  Bad Request: /api/user/register
+2023-11-23 14:48:50,991 django.request WARNING  Not Found: /admin/
+2023-11-23 14:50:35,064 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 14:50:42,226 django.request WARNING  Not Found: /favicon.ico
+2023-11-23 14:52:00,293 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 14:52:01,247 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 14:52:04,965 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 14:52:05,893 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 14:52:16,330 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 14:52:17,204 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 14:53:44,674 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 14:53:45,535 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 14:53:59,137 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 14:53:59,936 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 14:54:02,405 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 14:54:03,175 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 14:54:16,984 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 14:54:18,200 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 14:54:20,377 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 14:54:21,351 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 14:54:30,512 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 14:54:31,352 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 14:54:34,930 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 14:54:36,026 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 14:54:42,614 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 14:54:43,662 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 14:54:47,822 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 14:54:49,058 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 14:55:04,674 django.request WARNING  Method Not Allowed: /api/user/register
+2023-11-23 14:55:27,904 django.request WARNING  Bad Request: /api/user/register
+2023-11-23 14:55:45,125 django.request ERROR    Internal Server Error: /api/user/register
+Traceback (most recent call last):
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.IntegrityError: UNIQUE constraint failed: users_apiuser.email
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py", line 52, in create
+    user = get_user_model().objects.create_user(
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\models.py", line 28, in create_user
+    user.save()
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\contrib\auth\base_user.py", line 76, in save
+    super().save(*args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\models\base.py", line 1020, in _save_table
+    results = self._do_insert(
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\models\base.py", line 1061, in _do_insert
+    return manager._insert(
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\models\sql\compiler.py", line 1822, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.IntegrityError: UNIQUE constraint failed: users_apiuser.email
+2023-11-23 14:57:32,148 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 14:57:33,098 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 14:57:35,062 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 14:57:36,305 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 14:58:01,223 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 14:58:02,456 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 14:58:14,398 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 14:58:15,364 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 14:58:19,874 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 14:58:20,634 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 14:58:26,950 django.request ERROR    Internal Server Error: /api/user/register
+Traceback (most recent call last):
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.IntegrityError: UNIQUE constraint failed: users_apiuser.email
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py", line 53, in create
+    user = get_user_model().objects.create_user(
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\models.py", line 28, in create_user
+    user.save()
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\contrib\auth\base_user.py", line 76, in save
+    super().save(*args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\models\base.py", line 1020, in _save_table
+    results = self._do_insert(
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\models\base.py", line 1061, in _do_insert
+    return manager._insert(
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\models\sql\compiler.py", line 1822, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.IntegrityError: UNIQUE constraint failed: users_apiuser.email
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py", line 62, in create
+    except IntegrityError:
+NameError: name 'IntegrityError' is not defined
+2023-11-23 14:58:27,152 django.request WARNING  Not Found: /favicon.ico
+2023-11-23 14:58:33,985 django.request ERROR    Internal Server Error: /api/user/register
+Traceback (most recent call last):
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.IntegrityError: UNIQUE constraint failed: users_apiuser.email
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py", line 53, in create
+    user = get_user_model().objects.create_user(
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\models.py", line 28, in create_user
+    user.save()
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\contrib\auth\base_user.py", line 76, in save
+    super().save(*args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\models\base.py", line 1020, in _save_table
+    results = self._do_insert(
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\models\base.py", line 1061, in _do_insert
+    return manager._insert(
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\models\sql\compiler.py", line 1822, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.IntegrityError: UNIQUE constraint failed: users_apiuser.email
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py", line 62, in create
+    except IntegrityError:
+NameError: name 'IntegrityError' is not defined
+2023-11-23 14:59:19,238 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 14:59:20,390 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 14:59:24,532 django.request WARNING  Bad Request: /api/user/register
+2023-11-23 14:59:25,008 django.request WARNING  Not Found: /favicon.ico
+2023-11-23 14:59:37,032 django.request WARNING  Bad Request: /api/user/register
+2023-11-23 14:59:59,567 django.request WARNING  Bad Request: /api/user/register
+2023-11-23 15:01:53,098 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 15:01:54,516 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 15:01:57,620 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 15:01:58,710 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 15:02:02,616 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 15:02:03,727 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 15:02:06,215 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 15:02:07,181 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 15:02:15,352 django.request WARNING  Bad Request: /api/user/register
+2023-11-23 15:02:15,796 django.request WARNING  Not Found: /favicon.ico
+2023-11-23 15:03:15,660 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 15:03:17,030 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 15:03:19,879 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 15:03:20,842 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 15:04:04,318 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 15:04:05,788 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 15:04:28,793 django.request WARNING  Method Not Allowed: /api/user/login
+2023-11-23 15:53:30,760 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 15:54:21,740 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 15:57:04,738 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 15:57:06,187 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 15:57:08,774 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 15:57:09,943 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 15:59:00,865 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\urls.py changed, reloading.
+2023-11-23 15:59:02,420 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:05:52,820 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 16:05:54,432 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:06:09,219 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 16:06:10,409 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:06:16,226 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 16:06:17,697 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:06:45,845 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 16:06:46,853 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:06:54,495 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 16:06:55,929 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:07:00,683 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 16:07:02,256 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:07:04,347 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 16:07:05,717 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:07:09,078 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 16:07:10,154 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:07:14,317 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 16:07:15,941 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:07:18,520 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 16:07:20,335 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:07:22,653 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 16:07:24,041 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:07:26,722 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 16:07:28,551 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:07:42,721 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:08:45,330 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 16:08:46,660 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:08:48,791 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 16:08:50,462 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:08:53,348 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 16:08:54,651 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:18:52,300 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 16:18:54,207 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:19:18,707 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 16:19:19,944 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:19:29,939 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 16:19:31,077 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:19:35,155 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 16:19:36,124 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:21:08,881 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 16:21:10,241 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:21:25,981 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 16:21:26,943 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:22:08,676 django.request ERROR    Internal Server Error: /api/user/login
+Traceback (most recent call last):
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\generics.py", line 63, in get_queryset
+    assert self.queryset is not None, (
+AssertionError: 'LoginViewSet' should either include a `queryset` attribute, or override the `get_queryset()` method.
+2023-11-23 16:22:08,853 django.request WARNING  Not Found: /favicon.ico
+2023-11-23 16:22:19,969 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\urls.py changed, reloading.
+2023-11-23 16:22:21,197 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:22:24,032 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\urls.py changed, reloading.
+2023-11-23 16:22:25,530 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:22:30,508 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\urls.py changed, reloading.
+2023-11-23 16:22:31,767 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:23:42,150 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\urls.py changed, reloading.
+2023-11-23 16:23:43,324 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:23:46,983 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\urls.py changed, reloading.
+2023-11-23 16:23:48,128 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:24:00,781 django.request WARNING  Method Not Allowed: /api/user/register
+2023-11-23 16:24:04,216 django.request ERROR    Internal Server Error: /api/user/login
+Traceback (most recent call last):
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\generics.py", line 63, in get_queryset
+    assert self.queryset is not None, (
+AssertionError: 'LoginViewSet' should either include a `queryset` attribute, or override the `get_queryset()` method.
+2023-11-23 16:24:34,893 django.request WARNING  Not Found: /api/login
+2023-11-23 16:25:04,624 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\urls.py changed, reloading.
+2023-11-23 16:25:05,825 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:25:09,746 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 16:25:11,133 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:25:13,276 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 16:25:14,412 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:25:17,024 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 16:25:18,571 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:25:21,647 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 16:25:23,300 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:25:25,438 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 16:25:26,736 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:25:30,198 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 16:25:31,541 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:25:57,311 django.request WARNING  Not Found: /api/login
+2023-11-23 16:25:59,990 django.request WARNING  Not Found: /api/login
+2023-11-23 16:26:06,645 django.request WARNING  Method Not Allowed: /api/user/login
+2023-11-23 16:26:42,650 django.request WARNING  Method Not Allowed: /api/user/login
+2023-11-23 16:26:50,044 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 16:26:51,142 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:26:51,710 django.request WARNING  Method Not Allowed: /api/user/login
+2023-11-23 16:26:52,027 django.request WARNING  Not Found: /favicon.ico
+2023-11-23 16:26:54,223 django.request WARNING  Method Not Allowed: /api/user/login
+2023-11-23 16:26:56,355 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 16:26:57,652 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:28:09,444 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 16:28:10,961 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:28:13,071 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 16:28:14,476 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:28:29,519 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 16:28:30,544 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:29:42,521 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 16:29:43,539 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:29:47,730 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 16:29:49,041 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:30:45,355 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 16:30:46,434 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:31:00,058 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 16:31:01,444 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:33:58,241 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 16:33:59,302 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:34:02,951 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 16:34:04,107 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:34:40,939 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\urls.py changed, reloading.
+2023-11-23 16:34:41,864 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:34:43,699 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\urls.py changed, reloading.
+2023-11-23 16:34:44,603 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:35:29,789 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:35:37,013 django.request WARNING  Method Not Allowed: /api/user/login/
+2023-11-23 16:35:44,994 django.request WARNING  Method Not Allowed: /api/user/register/
+2023-11-23 16:36:59,252 django.request WARNING  Method Not Allowed: /api/user/login/
+2023-11-23 16:37:45,237 django.request ERROR    Internal Server Error: /api/user/me/
+Traceback (most recent call last):
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\viewsets.py", line 117, in view
+    handler = getattr(self, action)
+AttributeError: 'MeViewSet' object has no attribute 'retrieve'
+2023-11-23 16:38:01,592 django.request WARNING  Method Not Allowed: /api/user/login/
+2023-11-23 16:38:06,153 django.request WARNING  Method Not Allowed: /api/user/login/
+2023-11-23 16:38:11,139 django.request ERROR    Internal Server Error: /api/user/me/
+Traceback (most recent call last):
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\viewsets.py", line 117, in view
+    handler = getattr(self, action)
+AttributeError: 'MeViewSet' object has no attribute 'retrieve'
+2023-11-23 16:38:19,879 django.request ERROR    Internal Server Error: /api/user/me/
+Traceback (most recent call last):
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\viewsets.py", line 117, in view
+    handler = getattr(self, action)
+AttributeError: 'MeViewSet' object has no attribute 'retrieve'
+2023-11-23 16:39:03,780 django.request WARNING  Method Not Allowed: /api/user/login/
+2023-11-23 16:39:12,299 django.request WARNING  Unauthorized: /api/user/login/
+2023-11-23 16:39:16,012 django.request WARNING  Bad Request: /api/user/login/
+2023-11-23 16:39:31,010 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\serializers.py changed, reloading.
+2023-11-23 16:39:32,044 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:39:58,708 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\serializers.py changed, reloading.
+2023-11-23 16:39:59,672 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:40:20,810 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\serializers.py changed, reloading.
+2023-11-23 16:40:21,742 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:40:26,193 django.request WARNING  Bad Request: /api/user/login/
+2023-11-23 16:40:26,537 django.request WARNING  Not Found: /favicon.ico
+2023-11-23 16:40:41,355 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\serializers.py changed, reloading.
+2023-11-23 16:40:42,267 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:41:17,005 django.request WARNING  Bad Request: /api/user/login/
+2023-11-23 16:41:17,410 django.request WARNING  Not Found: /favicon.ico
+2023-11-23 16:41:20,552 django.request WARNING  Method Not Allowed: /api/user/login/
+2023-11-23 16:41:32,833 django.request WARNING  Not Found: /api/user/l
+2023-11-23 16:41:37,703 django.request WARNING  Not Found: /api/user
+2023-11-23 16:41:43,471 django.request ERROR    Internal Server Error: /api/user/me/
+Traceback (most recent call last):
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\viewsets.py", line 117, in view
+    handler = getattr(self, action)
+AttributeError: 'MeViewSet' object has no attribute 'retrieve'
+2023-11-23 16:41:57,431 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\serializers.py changed, reloading.
+2023-11-23 16:41:58,427 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:42:20,201 django.request WARNING  Method Not Allowed: /api/user/login/
+2023-11-23 16:42:33,678 django.request WARNING  Unauthorized: /api/user/login/
+2023-11-23 16:42:59,175 django.request WARNING  Unauthorized: /api/user/login/
+2023-11-23 16:43:05,564 django.request WARNING  Unauthorized: /api/user/login/
+2023-11-23 16:46:20,114 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\serializers.py changed, reloading.
+2023-11-23 16:46:21,307 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:46:23,695 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\serializers.py changed, reloading.
+2023-11-23 16:46:24,913 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:46:28,328 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\serializers.py changed, reloading.
+2023-11-23 16:46:29,265 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:46:33,734 django.request WARNING  Method Not Allowed: /api/user/login/
+2023-11-23 16:46:46,931 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\serializers.py changed, reloading.
+2023-11-23 16:46:47,960 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:46:49,721 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\serializers.py changed, reloading.
+2023-11-23 16:46:50,664 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:46:53,416 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\serializers.py changed, reloading.
+2023-11-23 16:46:54,681 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 16:46:55,281 django.request WARNING  Method Not Allowed: /api/user/login/
+2023-11-23 16:46:55,813 django.request WARNING  Not Found: /favicon.ico
+2023-11-23 17:00:11,425 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 17:00:12,589 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:00:14,659 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 17:00:15,979 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:00:37,355 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 17:00:38,245 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:01:15,284 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 17:01:16,455 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:01:39,118 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 17:01:40,226 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:02:06,624 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 17:02:07,523 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:02:22,778 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 17:02:23,663 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:02:25,566 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 17:02:26,595 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:02:30,650 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 17:02:31,684 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:02:38,216 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 17:02:39,386 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:02:42,299 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 17:02:43,262 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:02:45,066 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 17:02:46,211 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:02:48,128 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 17:02:49,216 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:04:20,620 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 17:04:21,625 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:04:23,584 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 17:04:24,686 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:04:26,714 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 17:04:27,850 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:04:31,052 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 17:04:32,414 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:04:41,231 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 17:04:42,156 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:04:45,229 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 17:04:46,552 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:04:48,818 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 17:04:50,131 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:04:52,174 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 17:04:53,381 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:04:57,836 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 17:04:58,759 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:05:16,306 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 17:05:17,246 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:07:49,411 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 17:07:50,435 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:07:52,280 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 17:07:53,409 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:08:14,176 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 17:08:15,293 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:08:28,536 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 17:08:29,643 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:08:42,657 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 17:08:43,612 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:09:07,738 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 17:09:08,710 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:09:46,594 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 17:09:48,254 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:09:50,343 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 17:09:51,983 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:10:12,930 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 17:10:13,871 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:10:49,911 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:11:11,231 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\urls.py changed, reloading.
+2023-11-23 17:11:12,447 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:11:22,167 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\urls.py changed, reloading.
+2023-11-23 17:11:23,552 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:11:50,324 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\urls.py changed, reloading.
+2023-11-23 17:11:52,525 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:12:03,156 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\urls.py changed, reloading.
+2023-11-23 17:12:04,449 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:13:22,134 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:14:17,216 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\urls.py changed, reloading.
+2023-11-23 17:14:18,631 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:14:39,376 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\urls.py changed, reloading.
+2023-11-23 17:14:40,741 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:14:43,717 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\urls.py changed, reloading.
+2023-11-23 17:14:45,040 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:15:06,963 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:15:25,813 django.request WARNING  Not Found: /api/user/register/
+2023-11-23 17:15:33,444 django.request WARNING  Not Found: /api/user/register/
+2023-11-23 17:15:55,145 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\urls.py changed, reloading.
+2023-11-23 17:15:56,188 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:15:58,649 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\urls.py changed, reloading.
+2023-11-23 17:16:00,028 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:16:01,175 django.request WARNING  Method Not Allowed: /api/user/register/
+2023-11-23 17:16:13,436 django.request WARNING  Method Not Allowed: /api/user/login/
+2023-11-23 17:16:29,400 django.request WARNING  Method Not Allowed: /api/user/register/
+2023-11-23 17:16:34,742 django.request ERROR    Internal Server Error: /api/user/me/
+Traceback (most recent call last):
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\viewsets.py", line 117, in view
+    handler = getattr(self, action)
+AttributeError: 'MeViewSet' object has no attribute 'retrieve'
+2023-11-23 17:20:58,010 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 17:20:59,365 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:21:03,973 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 17:21:05,229 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:21:17,207 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 17:21:18,471 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:22:20,652 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 17:22:22,383 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:22:25,467 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 17:22:26,775 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:22:29,168 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 17:22:30,902 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:22:33,318 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 17:22:34,619 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:22:43,632 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 17:22:45,037 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:23:03,716 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 17:23:04,757 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:23:06,573 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 17:23:07,582 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:23:09,375 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 17:23:10,345 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:23:31,015 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:23:36,976 django.request WARNING  Not Found: /api/user/me/
+2023-11-23 17:23:37,041 django.request WARNING  Not Found: /favicon.ico
+2023-11-23 17:23:42,560 django.request WARNING  Not Found: /api/user/register/
+2023-11-23 17:24:00,532 django.request WARNING  Not Found: /favicon.ico
+2023-11-23 17:24:34,126 django.request WARNING  Not Found: /api/user/register/
+2023-11-23 17:24:46,557 django.request WARNING  Not Found: /api/user/register/
+2023-11-23 17:24:52,977 django.request WARNING  Not Found: /api/user/login/
+2023-11-23 17:27:06,610 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 17:27:07,699 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:27:11,990 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\urls.py changed, reloading.
+2023-11-23 17:27:13,071 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:27:16,130 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\urls.py changed, reloading.
+2023-11-23 17:27:17,551 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:27:23,071 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 17:27:24,044 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:27:25,957 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 17:27:27,068 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:30:12,427 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 17:30:13,383 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:30:29,167 django.request WARNING  Not Found: /api/user/login/
+2023-11-23 17:30:31,199 django.request WARNING  Not Found: /api/user/login/
+2023-11-23 17:31:16,425 django.request WARNING  Not Found: /api//
+2023-11-23 17:31:20,195 django.request WARNING  Not Found: /api/
+2023-11-23 17:31:38,345 django.request WARNING  Not Found: /api/user/me/
+2023-11-23 17:32:13,397 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 17:32:14,491 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:33:33,300 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 17:33:34,292 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:33:49,443 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 17:33:50,462 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:33:53,849 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 17:33:54,869 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:33:56,927 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 17:33:58,038 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:34:34,933 django.request WARNING  Not Found: /api/user/me/
+2023-11-23 17:34:45,482 django.request WARNING  Not Found: /api/user/register/
+2023-11-23 17:35:19,431 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:35:25,160 django.request WARNING  Not Found: /favicon.ico
+2023-11-23 17:35:36,775 django.request WARNING  Not Found: /api/user/login/
+2023-11-23 17:38:50,864 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\urls.py changed, reloading.
+2023-11-23 17:38:52,575 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:38:55,679 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\urls.py changed, reloading.
+2023-11-23 17:38:57,278 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:39:21,714 django.request WARNING  Not Found: /api/user/register/
+2023-11-23 17:39:37,476 django.request WARNING  Not Found: /api/user/login/
+2023-11-23 17:47:01,507 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\urls.py changed, reloading.
+2023-11-23 17:47:02,838 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:47:08,649 django.request WARNING  Not Found: /api/user/login/
+2023-11-23 17:47:39,912 django.request WARNING  Not Found: /api/user/register/
+2023-11-23 17:48:40,355 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 17:48:41,522 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:48:49,900 django.request WARNING  Not Found: /api/user/register/
+2023-11-23 17:49:01,087 django.request WARNING  Not Found: /api/user/login/
+2023-11-23 17:56:26,975 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:56:47,217 django.request WARNING  Method Not Allowed: /api/user/login
+2023-11-23 17:57:06,180 django.request WARNING  Method Not Allowed: /api/user/register
+2023-11-23 17:57:29,185 django.request WARNING  Method Not Allowed: /api/user/login
+2023-11-23 17:57:56,010 django.request ERROR    Internal Server Error: /api/user/login
+Traceback (most recent call last):
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py", line 81, in create
+    user = authenticate(request, email=email, password=password)
+NameError: name 'authenticate' is not defined
+2023-11-23 17:59:35,767 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 17:59:36,871 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:59:46,327 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 17:59:47,647 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 17:59:50,573 django.request WARNING  Not Found: /favicon.ico
+2023-11-23 18:08:18,515 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 18:08:19,922 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:08:23,634 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 18:08:24,848 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:08:30,054 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 18:08:31,073 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:08:36,197 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 18:08:37,180 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:11:02,029 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 18:11:02,980 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:11:06,036 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 18:11:07,207 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:11:24,009 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 18:11:25,054 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:11:48,082 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 18:11:49,051 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:11:50,892 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 18:11:51,991 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:11:54,412 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 18:11:55,564 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:14:19,791 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 18:14:20,922 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:15:19,896 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 18:15:20,896 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:15:36,300 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 18:15:37,212 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:15:41,664 django.request WARNING  Unauthorized: /api/user/me
+2023-11-23 18:16:27,039 django.request WARNING  Method Not Allowed: /api/user/login
+2023-11-23 18:16:33,991 django.request WARNING  Unauthorized: /api/user/login
+2023-11-23 18:17:04,237 django.request WARNING  Unauthorized: /api/user/me
+2023-11-23 18:17:10,769 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 18:17:11,761 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:17:13,622 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 18:17:14,571 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:18:47,562 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 18:18:48,515 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:19:01,612 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 18:19:02,555 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:19:08,761 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 18:19:09,656 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:19:23,728 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 18:19:24,686 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:19:37,228 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:19:44,486 django.request WARNING  Unauthorized: /api/user/me
+2023-11-23 18:25:37,691 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 18:25:38,798 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:25:40,689 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 18:25:42,100 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:25:50,526 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 18:25:51,518 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:25:53,529 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 18:25:54,547 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:25:59,741 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 18:26:00,723 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:26:04,937 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 18:26:06,168 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:26:09,312 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 18:26:10,427 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:26:41,665 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 18:26:42,782 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:27:35,513 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 18:27:36,406 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:27:41,017 django.request WARNING  Forbidden: /api/user/me
+2023-11-23 18:27:43,389 django.request WARNING  Forbidden: /api/user/me
+2023-11-23 18:28:00,927 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 18:28:02,464 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:28:04,809 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 18:28:06,409 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:28:08,752 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 18:28:10,339 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:28:12,677 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 18:28:14,093 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:28:16,108 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 18:28:17,278 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:28:30,231 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 18:28:31,474 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:28:37,528 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 18:28:38,763 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:28:47,136 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 18:28:48,432 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:28:51,810 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 18:28:52,745 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:29:23,415 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 18:29:24,302 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:29:34,085 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 18:29:34,984 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:34:01,963 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 18:34:02,884 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:34:16,114 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 18:34:17,012 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:34:25,396 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 18:34:26,313 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:34:29,890 django.request WARNING  Forbidden: /api/user/me
+2023-11-23 18:34:30,176 django.request WARNING  Not Found: /favicon.ico
+2023-11-23 18:36:55,302 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 18:36:56,438 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:38:13,505 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 18:38:14,444 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:38:30,275 django.request WARNING  Forbidden: /api/user/me
+2023-11-23 18:39:05,380 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-23 18:39:06,435 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:39:08,290 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-23 18:39:09,479 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:39:13,864 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-23 18:39:14,961 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:39:20,349 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-23 18:39:21,317 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:39:24,348 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-23 18:39:25,396 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:39:28,351 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-23 18:39:29,310 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:39:32,228 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-23 18:39:33,159 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:39:42,659 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-23 18:39:43,661 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:39:57,415 django.request WARNING  Forbidden: /api/user/me/
+2023-11-23 18:40:01,358 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-23 18:40:02,529 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:40:04,580 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-23 18:40:05,669 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:40:07,668 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-23 18:40:08,800 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:40:11,072 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-23 18:40:12,178 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:40:20,441 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 18:40:21,477 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:40:31,910 django.request WARNING  Not Found: /api/user/me/
+2023-11-23 18:46:20,417 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 18:46:21,377 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:46:25,779 django.request WARNING  Forbidden: /api/user/me
+2023-11-23 18:47:18,777 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 18:47:19,693 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:48:53,289 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 18:48:54,554 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:50:00,097 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 18:50:01,415 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:50:09,763 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:50:48,847 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 18:50:50,220 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:50:53,560 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 18:50:54,947 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:51:04,391 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 18:51:05,666 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 18:51:10,942 django.request WARNING  Unauthorized: /api/user/me
+2023-11-23 21:20:13,211 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 21:20:15,176 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 21:20:19,716 django.request ERROR    Internal Server Error: /api/user/me
+Traceback (most recent call last):
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\fields.py", line 446, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\fields.py", line 96, in get_attribute
+    instance = getattr(instance, attr)
+AttributeError: 'AnonymousUser' object has no attribute 'email'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py", line 126, in list
+    return Response(serializer.data)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\serializers.py", line 555, in data
+    ret = super().data
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\serializers.py", line 509, in to_representation
+    attribute = field.get_attribute(instance)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\fields.py", line 479, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `email` on serializer `UserSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `AnonymousUser` instance.
+Original exception text was: 'AnonymousUser' object has no attribute 'email'.
+2023-11-23 21:20:33,247 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 21:20:34,886 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 21:20:44,868 django.request WARNING  Unauthorized: /api/user/me
+2023-11-23 21:20:48,666 django.request WARNING  Unauthorized: /api/user/me
+2023-11-23 21:26:15,813 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 21:26:17,922 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 21:26:37,677 django.request WARNING  Unauthorized: /api/user/me
+2023-11-23 21:26:42,976 django.request WARNING  Method Not Allowed: /api/user/login
+2023-11-23 21:29:10,422 django.request WARNING  Unauthorized: /api/user/me
+2023-11-23 21:36:25,760 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 21:36:27,733 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 21:36:30,664 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 21:36:32,492 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 21:36:36,273 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 21:36:38,052 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 21:36:43,265 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 21:36:45,257 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 21:36:48,917 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 21:36:51,341 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 22:17:36,797 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 22:19:15,614 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 22:19:17,475 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 22:19:20,107 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 22:19:22,356 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 22:19:51,196 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 22:19:53,334 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 22:20:00,045 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 22:20:01,791 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 22:20:09,575 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 22:20:11,178 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 22:20:22,325 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 22:20:24,059 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 22:20:29,668 django.request WARNING  Method Not Allowed: /api/user/login
+2023-11-23 22:20:32,690 django.request WARNING  Unauthorized: /api/user/me
+2023-11-23 22:20:57,442 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 22:20:59,850 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 22:21:02,765 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 22:21:04,373 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 22:24:17,635 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\models.py changed, reloading.
+2023-11-23 22:24:19,958 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 22:25:30,069 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 22:27:50,205 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 22:27:52,296 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 22:27:58,179 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 22:28:00,253 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 22:28:05,330 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 22:28:07,971 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 22:55:27,484 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 22:56:17,398 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-23 22:56:19,519 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 22:56:25,937 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-23 22:56:27,635 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 22:59:46,660 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-23 22:59:48,673 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 23:00:32,604 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-23 23:00:36,214 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 23:00:41,318 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-23 23:00:43,409 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 23:00:46,904 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-23 23:00:50,033 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 23:00:53,184 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-23 23:00:55,002 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 23:00:59,941 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-23 23:01:01,813 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 23:01:05,507 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-23 23:01:07,316 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 23:01:09,672 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-23 23:01:11,456 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 23:01:13,790 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-23 23:01:15,425 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 23:03:59,077 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-23 23:04:01,680 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 23:04:04,363 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-23 23:04:06,646 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 23:04:22,750 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-23 23:04:25,478 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 23:05:06,023 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-23 23:05:08,043 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 23:06:49,092 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-23 23:06:51,111 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 23:06:53,556 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-23 23:06:55,327 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 23:06:58,945 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-23 23:07:00,633 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 23:07:12,841 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-23 23:07:14,743 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 23:07:23,258 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-23 23:07:25,259 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 23:07:28,821 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-23 23:07:30,707 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 23:10:38,175 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-23 23:10:43,183 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 23:10:55,325 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-23 23:10:57,621 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 23:12:23,502 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-23 23:12:25,398 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 23:12:34,525 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-23 23:12:36,916 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 23:14:41,834 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-23 23:14:43,810 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 23:15:04,367 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-23 23:15:06,407 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 23:15:12,459 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-23 23:15:14,730 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 23:15:23,193 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-23 23:15:25,421 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 23:15:29,166 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-23 23:15:31,168 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 23:15:54,270 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 23:16:00,239 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-23 23:16:02,248 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 23:16:10,378 django.request WARNING  Unauthorized: /api/user/me
+2023-11-23 23:16:14,922 django.request WARNING  Not Found: /
+2023-11-23 23:16:20,645 django.request WARNING  Not Found: /
+2023-11-23 23:16:21,697 django.request WARNING  Not Found: /
+2023-11-23 23:16:30,715 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 23:16:36,270 django.request WARNING  Not Found: /
+2023-11-23 23:18:29,514 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-23 23:18:32,460 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 23:18:55,711 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-23 23:18:57,430 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 23:19:04,030 django.request WARNING  Not Found: /
+2023-11-23 23:20:37,204 django.request WARNING  Not Found: /
+2023-11-23 23:20:42,542 django.request ERROR    Internal Server Error: /home/
+Traceback (most recent call last):
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py", line 138, in home
+    return render(request, 'home.html', {'data': data})
+NameError: name 'render' is not defined
+2023-11-23 23:20:59,326 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-23 23:21:02,883 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 23:21:47,898 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 23:21:49,803 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 23:21:55,997 django.request WARNING  Not Found: /home/
+2023-11-23 23:21:56,162 django.request WARNING  Not Found: /favicon.ico
+2023-11-23 23:21:59,323 django.request WARNING  Not Found: /
+2023-11-23 23:22:13,576 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-23 23:22:15,384 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 23:22:19,191 django.request WARNING  Not Found: /
+2023-11-23 23:22:26,864 django.request ERROR    Internal Server Error: /home/
+Traceback (most recent call last):
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py", line 139, in home
+    return render(request, 'home.html', {'data': data})
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: home.html
+2023-11-23 23:24:05,866 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-23 23:24:08,266 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 23:24:16,868 django.request WARNING  Not Found: /
+2023-11-23 23:24:18,278 django.request WARNING  Not Found: /favicon.ico
+2023-11-23 23:24:26,472 django.request ERROR    Internal Server Error: /home/
+Traceback (most recent call last):
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py", line 139, in home
+    return render(request, 'home.html', {'data': data})
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: home.html
+2023-11-23 23:25:34,756 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\settings.py changed, reloading.
+2023-11-23 23:25:36,836 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 23:31:21,658 django.request WARNING  Not Found: /favicon.ico
+2023-11-23 23:38:20,549 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-23 23:38:23,009 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 23:38:27,043 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-23 23:38:29,794 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 23:54:38,591 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 23:54:40,874 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 23:54:47,846 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 23:54:49,640 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 23:55:05,648 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-23 23:55:07,468 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-23 23:56:05,228 django.request WARNING  Not Found: /favicon.ico
+2023-11-23 23:59:36,525 django.request WARNING  Not Found: /favicon.ico
+2023-11-24 00:02:32,867 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 00:02:35,005 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 00:02:53,806 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 00:02:55,986 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 00:14:50,834 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 00:14:52,613 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 00:14:56,645 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 00:14:58,527 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 00:16:31,024 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 00:16:32,725 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 00:16:54,779 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 00:16:56,990 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 00:17:34,594 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 00:17:36,266 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 00:18:30,830 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 00:18:32,514 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 00:18:53,811 django.request WARNING  Method Not Allowed: /api/user/login
+2023-11-24 00:18:57,475 django.request WARNING  Unauthorized: /api/user/me
+2023-11-24 00:19:05,157 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 00:19:07,109 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 00:25:39,067 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 00:25:41,062 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 00:25:47,124 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 00:25:49,121 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 00:25:53,272 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 00:25:55,447 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 00:26:19,365 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 00:26:21,401 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 00:26:53,068 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\admin.py changed, reloading.
+2023-11-24 00:26:55,165 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 00:27:52,121 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 00:27:56,705 django.request WARNING  Method Not Allowed: /api/user/login
+2023-11-24 00:31:23,791 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 00:31:25,673 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 00:31:34,182 django.request ERROR    Internal Server Error: /api/user/me
+Traceback (most recent call last):
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py", line 137, in get_queryset
+    access_token = self.request.headers.get('Authorization').split(' ')[1]
+AttributeError: 'NoneType' object has no attribute 'split'
+2023-11-24 00:32:57,885 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 00:32:59,949 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 00:33:37,599 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 00:33:39,699 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 00:34:54,335 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 00:34:56,192 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 00:34:59,699 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 00:35:01,386 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 00:41:09,170 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 00:41:11,350 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 00:41:17,746 django.request WARNING  Unauthorized: /api/user/me
+2023-11-24 00:41:34,142 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 00:41:36,008 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 00:44:07,578 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 00:44:09,547 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 00:44:14,370 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 00:44:16,049 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 00:44:21,665 django.request WARNING  Unauthorized: /api/user/me
+2023-11-24 00:44:43,229 django.request WARNING  Unauthorized: /api/user/me
+2023-11-24 00:45:01,128 django.request WARNING  Unauthorized: /api/user/me
+2023-11-24 00:45:11,311 django.request WARNING  Unauthorized: /api/user/me
+2023-11-24 00:45:17,479 django.request WARNING  Unauthorized: /api/user/me
+2023-11-24 00:45:38,691 django.request WARNING  Unauthorized: /api/user/me
+2023-11-24 00:45:40,651 django.request WARNING  Unauthorized: /api/user/me
+2023-11-24 00:45:58,999 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-24 00:46:01,180 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 00:48:01,153 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 00:48:03,673 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 00:48:11,664 django.request WARNING  Unauthorized: /api/user/me
+2023-11-24 00:48:41,100 django.request WARNING  Unauthorized: /api/user/me
+2023-11-24 00:48:51,587 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-24 00:48:53,316 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 00:52:26,362 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 00:52:28,378 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 00:52:31,641 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 00:52:33,310 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 00:53:09,344 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 00:53:12,028 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 00:53:28,692 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 00:53:32,029 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 00:53:37,360 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 00:53:39,196 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 00:56:34,372 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 00:56:45,500 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\urls.py changed, reloading.
+2023-11-24 00:56:47,254 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 00:56:53,578 django.request WARNING  Unauthorized: /api/user/me/
+2023-11-24 00:57:15,343 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\urls.py changed, reloading.
+2023-11-24 00:57:17,200 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 00:57:24,393 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 00:57:26,181 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 00:59:54,706 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 00:59:56,528 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 01:01:22,764 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\serializers.py changed, reloading.
+2023-11-24 01:01:24,582 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 01:01:42,033 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 01:01:43,732 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 01:01:47,356 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 01:01:49,034 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 01:01:52,728 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 01:01:54,660 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 01:03:23,573 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 01:03:25,235 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 01:03:33,788 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 01:03:35,566 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 01:03:39,734 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 01:03:41,326 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 01:04:53,852 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 01:04:55,978 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 01:05:02,434 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 01:05:04,444 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 01:05:06,944 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 01:05:08,979 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 01:08:44,535 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 01:08:55,177 django.request WARNING  Unauthorized: /api/user/me
+2023-11-24 01:09:02,563 django.request WARNING  Method Not Allowed: /api/user/login
+2023-11-24 01:09:19,085 django.request WARNING  Unauthorized: /api/user/me
+2023-11-24 01:09:19,379 django.request WARNING  Unauthorized: /api/user/me
+2023-11-24 01:09:24,006 django.request WARNING  Unauthorized: /api/user/me
+2023-11-24 01:10:03,848 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-24 01:10:05,586 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 01:11:19,376 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 01:11:20,997 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 01:11:34,941 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 01:11:37,239 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 01:11:50,042 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 01:15:12,934 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 01:15:15,102 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 01:15:19,993 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 01:15:22,328 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 01:15:41,904 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 01:15:43,883 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 01:15:59,713 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 01:16:01,514 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 01:16:05,988 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 01:16:07,883 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 01:20:08,198 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-24 01:20:10,629 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 01:20:14,807 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-24 01:20:17,012 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 01:20:21,329 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-24 01:20:23,313 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 01:21:08,480 django.request WARNING  Method Not Allowed: /logout/
+2023-11-24 01:22:45,371 django.request WARNING  Forbidden: /logout/
+2023-11-24 01:22:49,256 django.request WARNING  Forbidden: /logout/
+2023-11-24 01:22:50,072 django.request WARNING  Forbidden: /logout/
+2023-11-24 01:22:51,792 django.request WARNING  Forbidden: /logout/
+2023-11-24 01:25:22,825 django.request WARNING  Not Found: /favicon.ico
+2023-11-24 01:25:23,040 django.request WARNING  Forbidden: /logout/
+2023-11-24 01:25:26,959 django.request WARNING  Forbidden: /logout/
+2023-11-24 08:53:25,921 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 08:53:55,768 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 08:54:22,497 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 08:54:24,858 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 08:54:39,014 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 08:54:40,869 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 08:55:08,232 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-24 08:55:10,633 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 08:55:17,077 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-24 08:55:19,254 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 08:55:21,650 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-24 08:55:23,268 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 08:56:13,743 django.request WARNING  Not Found: /favicon.ico
+2023-11-24 08:56:15,201 django.request ERROR    Internal Server Error: /logout/
+Traceback (most recent call last):
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py", line 164, in logout_view
+    user_token = Token.objects.get(user_id=request.user)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\models\query.py", line 637, in get
+    raise self.model.DoesNotExist(
+users.models.Token.DoesNotExist: Token matching query does not exist.
+2023-11-24 08:57:46,389 django.request WARNING  Unauthorized: /api/user/me
+2023-11-24 08:57:49,471 django.request WARNING  Method Not Allowed: /api/user/login
+2023-11-24 08:58:26,135 django.request ERROR    Internal Server Error: /logout/
+Traceback (most recent call last):
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py", line 164, in logout_view
+    user_token = Token.objects.get(user_id=request.user)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\models\query.py", line 637, in get
+    raise self.model.DoesNotExist(
+users.models.Token.DoesNotExist: Token matching query does not exist.
+2023-11-24 08:59:09,548 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 08:59:10,972 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 08:59:25,398 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 08:59:26,469 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 08:59:28,772 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 08:59:29,915 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 09:02:17,719 django.request ERROR    Internal Server Error: /logout/
+Traceback (most recent call last):
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\models\fields\__init__.py", line 2053, in get_prep_value
+    return int(value)
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'SimpleLazyObject'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py", line 166, in logout_view
+    user_token = Token.objects.get(user_id=request.user)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\models\query.py", line 623, in get
+    clone = self._chain() if self.query.combinator else self.filter(*args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1545, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1576, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1491, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1318, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\models\lookups.py", line 27, in __init__
+    self.rhs = self.get_prep_lookup()
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\models\fields\related_lookups.py", line 166, in get_prep_lookup
+    self.rhs = target_field.get_prep_value(self.rhs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\models\fields\__init__.py", line 2055, in get_prep_value
+    raise e.__class__(
+TypeError: Field 'id' expected a number but got <SimpleLazyObject: <django.contrib.auth.models.AnonymousUser object at 0x0000021368D9DCF0>>.
+2023-11-24 09:02:42,939 django.request WARNING  Unauthorized: /api/user/login
+2023-11-24 09:03:03,916 django.request ERROR    Internal Server Error: /logout/
+Traceback (most recent call last):
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\models\fields\__init__.py", line 2053, in get_prep_value
+    return int(value)
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'SimpleLazyObject'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py", line 166, in logout_view
+    user_token = Token.objects.get(user_id=request.user)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\models\query.py", line 623, in get
+    clone = self._chain() if self.query.combinator else self.filter(*args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1545, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1576, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1491, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1318, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\models\lookups.py", line 27, in __init__
+    self.rhs = self.get_prep_lookup()
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\models\fields\related_lookups.py", line 166, in get_prep_lookup
+    self.rhs = target_field.get_prep_value(self.rhs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\models\fields\__init__.py", line 2055, in get_prep_value
+    raise e.__class__(
+TypeError: Field 'id' expected a number but got <SimpleLazyObject: <django.contrib.auth.models.AnonymousUser object at 0x000002136885A830>>.
+2023-11-24 09:08:19,696 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 09:08:20,948 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 09:08:38,978 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 09:08:39,924 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 09:08:43,294 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 09:08:44,847 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 09:09:11,841 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 09:09:12,821 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 09:09:20,729 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 09:09:21,940 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 09:10:01,338 django.request WARNING  Not Found: /favicon.ico
+2023-11-24 09:10:03,020 django.request WARNING  Unauthorized: /logout/
+2023-11-24 09:10:25,769 django.request ERROR    Internal Server Error: /logout/
+Traceback (most recent call last):
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py", line 170, in logout_view
+    user_token = Token.objects.get(user_id=request.user)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\models\query.py", line 640, in get
+    raise self.model.MultipleObjectsReturned(
+users.models.Token.MultipleObjectsReturned: get() returned more than one Token -- it returned 4!
+2023-11-24 09:12:05,980 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 09:12:07,357 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 09:13:05,961 django.request WARNING  Not Found: /favicon.ico
+2023-11-24 09:14:41,420 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 09:14:43,066 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 09:14:53,484 django.request WARNING  Not Found: /favicon.ico
+2023-11-24 09:14:54,824 django.request WARNING  Bad Request: /logout/
+2023-11-24 09:15:22,898 django.request WARNING  Bad Request: /logout/
+2023-11-24 09:15:29,481 django.request WARNING  Bad Request: /logout/
+2023-11-24 09:15:32,331 django.request WARNING  Bad Request: /logout/
+2023-11-24 09:17:53,307 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 09:17:54,316 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 09:18:17,503 users.views  INFO     User: anjana@gmail.com, Token: Token object (1)
+2023-11-24 09:18:17,589 django.request ERROR    Internal Server Error: /logout/
+Traceback (most recent call last):
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+2023-11-24 09:19:14,215 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 09:19:15,474 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 09:24:29,229 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 09:24:30,576 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 09:24:49,798 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 09:24:50,949 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 09:24:54,327 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 09:24:55,577 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 09:25:00,211 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 09:25:01,382 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 09:25:10,356 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 09:25:11,446 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 09:25:13,464 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 09:25:14,658 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 09:25:40,391 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-24 09:25:41,455 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 09:25:44,641 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-24 09:25:46,288 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 09:25:48,631 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-24 09:25:49,804 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 09:26:07,650 django.request WARNING  Not Found: /accounts/login/
+2023-11-24 09:28:38,523 django.request WARNING  Not Found: /favicon.ico
+2023-11-24 09:28:40,648 django.request WARNING  Not Found: /api/logout/
+2023-11-24 09:28:42,864 django.request WARNING  Not Found: /api/logout/
+2023-11-24 09:28:43,442 django.request WARNING  Not Found: /api/logout/
+2023-11-24 09:28:43,603 django.request WARNING  Not Found: /api/logout/
+2023-11-24 09:28:43,748 django.request WARNING  Not Found: /api/logout/
+2023-11-24 09:28:43,983 django.request WARNING  Not Found: /api/logout/
+2023-11-24 09:28:48,912 django.request WARNING  Not Found: /api/logout/
+2023-11-24 09:28:51,712 django.request WARNING  Not Found: /api/logout/
+2023-11-24 09:30:00,717 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-24 09:30:01,746 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 09:30:15,838 django.request WARNING  Not Found: /accounts/login/
+2023-11-24 09:30:26,119 django.request WARNING  Method Not Allowed: /api/user/login
+2023-11-24 09:30:46,071 django.request WARNING  Not Found: /accounts/login/
+2023-11-24 09:30:50,195 django.request WARNING  Not Found: /accounts/login/
+2023-11-24 09:30:57,307 django.request WARNING  Not Found: /accounts/login/
+2023-11-24 09:34:32,717 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 09:34:34,097 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 09:34:44,448 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 09:34:46,443 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 09:34:57,865 django.request WARNING  Unauthorized: /api/logout/
+2023-11-24 09:34:58,273 django.request ERROR    Internal Server Error: /api/logout/
+Traceback (most recent call last):
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py", line 167, in post
+    user_token = Token.objects.get(user_id=request.user)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\models\query.py", line 640, in get
+    raise self.model.MultipleObjectsReturned(
+users.models.Token.MultipleObjectsReturned: get() returned more than one Token -- it returned 6!
+2023-11-24 09:35:18,373 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 09:35:25,868 django.request ERROR    Internal Server Error: /api/logout/
+Traceback (most recent call last):
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py", line 167, in post
+    user_token = Token.objects.get(user_id=request.user)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\db\models\query.py", line 640, in get
+    raise self.model.MultipleObjectsReturned(
+users.models.Token.MultipleObjectsReturned: get() returned more than one Token -- it returned 6!
+2023-11-24 09:37:15,537 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 09:37:17,066 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 09:40:46,692 django.request WARNING  Not Found: /logout/
+2023-11-24 09:40:48,513 django.request WARNING  Not Found: /logout/
+2023-11-24 09:40:49,312 django.request WARNING  Not Found: /logout/
+2023-11-24 09:40:49,529 django.request WARNING  Not Found: /logout/
+2023-11-24 09:40:49,736 django.request WARNING  Not Found: /logout/
+2023-11-24 09:40:49,942 django.request WARNING  Not Found: /logout/
+2023-11-24 09:41:10,266 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\user_management\urls.py changed, reloading.
+2023-11-24 09:41:11,266 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 09:41:20,435 django.request WARNING  Not Found: /home
+2023-11-24 09:41:34,607 django.request WARNING  Not Found: /home
+2023-11-24 09:44:56,308 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 09:44:57,503 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 09:45:01,057 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 09:45:02,139 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 09:45:04,126 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 09:45:05,608 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 09:45:08,816 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 09:45:10,166 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 09:45:12,181 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 09:45:13,406 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 09:45:17,484 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 09:45:18,582 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 09:45:47,636 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 09:45:48,635 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 09:45:50,480 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 09:45:51,628 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 09:45:54,571 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 09:45:55,859 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 09:46:03,130 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 09:46:04,254 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 09:46:25,066 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\urls.py changed, reloading.
+2023-11-24 09:46:26,370 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 09:46:46,023 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\urls.py changed, reloading.
+2023-11-24 09:46:46,947 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 09:46:50,336 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\urls.py changed, reloading.
+2023-11-24 09:46:51,446 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 09:46:54,003 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\urls.py changed, reloading.
+2023-11-24 09:46:55,193 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 09:47:01,336 django.request WARNING  Not Found: /api/user/me
+2023-11-24 09:47:01,974 django.request WARNING  Not Found: /api/user/me
+2023-11-24 09:47:11,616 django.request WARNING  Method Not Allowed: /api/user/login
+2023-11-24 09:47:14,285 django.request WARNING  Not Found: /api/user/me
+2023-11-24 09:47:14,874 django.request WARNING  Not Found: /api/user/me
+2023-11-24 09:48:56,182 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\urls.py changed, reloading.
+2023-11-24 09:48:57,241 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 09:49:03,075 django.request WARNING  Not Found: /api/user/me
+2023-11-24 09:49:31,878 django.request WARNING  Not Found: /api/user/user
+2023-11-24 09:50:34,765 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\urls.py changed, reloading.
+2023-11-24 09:50:36,135 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 09:51:41,797 django.request WARNING  Not Found: /api/me
+2023-11-24 09:51:54,019 django.request WARNING  Not Found: /api/user/me
+2023-11-24 09:54:12,449 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\urls.py changed, reloading.
+2023-11-24 09:54:13,553 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 09:54:17,092 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\urls.py changed, reloading.
+2023-11-24 09:54:18,384 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 09:55:09,658 django.request WARNING  Not Found: /favicon.ico
+2023-11-24 09:55:48,290 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py changed, reloading.
+2023-11-24 09:55:49,671 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 09:56:08,162 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\urls.py changed, reloading.
+2023-11-24 09:56:09,305 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 09:56:12,012 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\urls.py changed, reloading.
+2023-11-24 09:56:13,029 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 09:56:13,914 django.request WARNING  Not Found: /favicon.ico
+2023-11-24 09:56:18,660 django.request WARNING  Not Found: /api/user/me/
+2023-11-24 09:56:31,310 django.request WARNING  Unauthorized: /api/user/me
+2023-11-24 09:56:31,860 django.request ERROR    Internal Server Error: /api/user/me
+Traceback (most recent call last):
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\fields.py", line 446, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\fields.py", line 96, in get_attribute
+    instance = getattr(instance, attr)
+AttributeError: 'APIUser' object has no attribute 'image_name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\views.py", line 133, in list
+    return Response(serializer.data)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\serializers.py", line 555, in data
+    ret = super().data
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\serializers.py", line 509, in to_representation
+    attribute = field.get_attribute(instance)
+  File "C:\Users\Anandu\Desktop\Python-Test\Test1-Django\venv\lib\site-packages\rest_framework\fields.py", line 479, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `image_name` on serializer `UserSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `APIUser` instance.
+Original exception text was: 'APIUser' object has no attribute 'image_name'.
+2023-11-24 09:58:35,264 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\serializers.py changed, reloading.
+2023-11-24 09:58:36,675 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 09:58:39,257 django.utils.autoreload INFO     C:\Users\Anandu\Desktop\Python-Test\Test1-Django\users\serializers.py changed, reloading.
+2023-11-24 09:58:40,636 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-11-24 09:59:03,305 django.request WARNING  Not Found: /favicon.ico
+2023-11-24 10:04:45,009 django.request WARNING  Not Found: /favicon.ico
+2023-11-24 10:05:01,346 django.request WARNING  Not Found: /favicon.ico
+2023-11-24 10:05:42,962 django.request WARNING  Not Found: /favicon.ico
+2023-11-24 10:07:20,191 django.request WARNING  Not Found: /favicon.ico
+2023-11-24 10:07:43,625 django.request WARNING  Not Found: /favicon.ico
+2023-11-24 10:07:56,905 django.request WARNING  Not Found: /favicon.ico

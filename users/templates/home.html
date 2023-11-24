@@ -1,0 +1,240 @@
+<!-- home.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>World Population Data</title>
+    <!-- Add any additional CSS stylesheets or CDN links for styling here -->
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        h2 {
+            color: #333;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+
+        th, td {
+            border: 1px solid #ddd;
+            padding: 12px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+
+        canvas {
+            max-width: 100%;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    
+    <button id="logoutButton" style=" margin: 20px auto; padding: 10px 20px; background-color: #333; color: #fff; border: none; border-radius: 5px; cursor: pointer;">Logout</button>
+
+
+
+    <h2>Search by Country</h2>
+    <form method="get" action="{% url 'home' %}">
+        <label for="country">Country:</label>
+        <input type="text" name="country" id="country" required>
+        <button type="submit">Search</button>
+    </form>
+
+    {% if search_results %}
+        <h2>Search Results</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Country</th>
+                    <th>Population 1980</th>
+                    <th>Population 2000</th>
+                    <th>Population 2010</th>
+                    <th>Population 2022</th>
+                    <th>Population 2023</th>
+                    <th>Population 2030</th>
+                    <th>Population 2050</th>
+                    <th>Area</th>
+                    <th>Land Area (km²)</th>
+                    <th>Country Code (2)</th>
+                    <th>Country Code (3)</th>
+                    <th>Net Change</th>
+                    <th>Growth Rate</th>
+                    <th>World Percentage</th>
+                    <th>Density</th>
+                    <th>Density (mi)</th>
+                    <th>Rank</th>
+                    <!-- Add other fields as needed -->
+                </tr>
+            </thead>
+            <tbody>
+                {% for entry in search_results %}
+                    <tr>
+                        <td>{{ entry.country }}</td>
+                        <td>{{ entry.pop1980 }}</td>
+                        <td>{{ entry.pop2000 }}</td>
+                        <td>{{ entry.pop2010 }}</td>
+                        <td>{{ entry.pop2022 }}</td>
+                        <td>{{ entry.pop2023 }}</td>
+                        <td>{{ entry.pop2030 }}</td>
+                        <td>{{ entry.pop2050 }}</td>
+                        <td>{{ entry.area }}</td>
+                        <td>{{ entry.landAreaKm }}</td>
+                        <td>{{ entry.cca2 }}</td>
+                        <td>{{ entry.cca3 }}</td>
+                        <td>{{ entry.netChange }}</td>
+                        <td>{{ entry.growthRate }}</td>
+                        <td>{{ entry.worldPercentage }}</td>
+                        <td>{{ entry.density }}</td>
+                        <td>{{ entry.densityMi }}</td>
+                        <td>{{ entry.rank }}</td>
+                        
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    {% endif %}
+
+
+    <h2>Population Bar Graph</h2>
+    <canvas id="barGraph" width="800" height="400"></canvas>
+
+    <h2>Population Line Graph</h2>
+    <canvas id="lineGraph" width="800" height="400"></canvas>
+    
+    
+    <h2>World Population Data Table</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Country</th>
+                <th>Population 1980</th>
+                <th>Population 2000</th>
+                <th>Population 2010</th>
+                <th>Population 2022</th>
+                <th>Population 2023</th>
+                <th>Population 2030</th>
+                <th>Population 2050</th>
+                <th>Area</th>
+                <th>Land Area (km²)</th>
+                <th>Country Code (2)</th>
+                <th>Country Code (3)</th>
+                <th>Net Change</th>
+                <th>Growth Rate</th>
+                <th>World Percentage</th>
+                <th>Density</th>
+                <th>Density (mi)</th>
+                <th>Rank</th>
+                <!-- Add other fields as needed -->
+            </tr>
+        </thead>
+        <tbody>
+            {% for entry in data %}
+                <tr>
+                    <td>{{ entry.country }}</td>
+                    <td>{{ entry.pop1980 }}</td>
+                    <td>{{ entry.pop2000 }}</td>
+                    <td>{{ entry.pop2010 }}</td>
+                    <td>{{ entry.pop2022 }}</td>
+                    <td>{{ entry.pop2023 }}</td>
+                    <td>{{ entry.pop2030 }}</td>
+                    <td>{{ entry.pop2050 }}</td>
+                    <td>{{ entry.area }}</td>
+                    <td>{{ entry.landAreaKm }}</td>
+                    <td>{{ entry.cca2 }}</td>
+                    <td>{{ entry.cca3 }}</td>
+                    <td>{{ entry.netChange }}</td>
+                    <td>{{ entry.growthRate }}</td>
+                    <td>{{ entry.worldPercentage }}</td>
+                    <td>{{ entry.density }}</td>
+                    <td>{{ entry.densityMi }}</td>
+                    <td>{{ entry.rank }}</td>
+                    <!-- Add other fields as needed -->
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+
+    
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+        var ctx = document.getElementById('barGraph').getContext('2d');
+        var barGraph = new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: [{% for entry in data %}"{{ entry.country }}",{% endfor %}],
+                datasets: [
+                    {
+                        label: 'Population 1980',
+                        data: [{% for entry in data %}{{ entry.pop1980 }},{% endfor %}],
+                        backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                        borderColor: 'rgba(75, 192, 192, 1)',
+                        borderWidth: 1
+                    },
+                    // Add other datasets as needed
+                ]
+            },
+            options: {
+                scales: {
+                    y: {
+                        beginAtZero: true
+                    }
+                }
+            }
+        });
+        var ctxLine = document.getElementById('lineGraph').getContext('2d');
+        var lineGraph = new Chart(ctxLine, {
+            type: 'line',
+            data: {
+                labels: [{% for entry in data %}"{{ entry.country }}",{% endfor %}],
+                datasets: [
+                    {
+                        label: 'Population 2023',
+                        data: [{% for entry in data %}{{ entry.pop2023 }},{% endfor %}],
+                        fill: false,
+                        borderColor: 'rgba(255, 99, 132, 1)',
+                        borderWidth: 2
+                    },
+                    // Add other datasets as needed
+                ]
+            },
+            options: {
+                scales: {
+                    y: {
+                        beginAtZero: true
+                    }
+                }
+            }
+        });
+        document.getElementById('logoutButton').addEventListener('click', function () {
+            // Send a POST request to the logout endpoint
+            fetch('/logout/', {
+                method: 'POST',
+                headers: {
+                    'X-CSRFToken': '{{ csrf_token }}',  // Include CSRF token for security
+                },
+            })
+            .then(response => response.json())
+            .then(data => {
+                alert(data.detail);  // Show a message to the user
+                // Optionally, redirect to another page after logout
+                window.location.href = ' ';  
+            })
+            .catch(error => console.error('Error:', error));
+        });
+    </script>
+    
+
+    
+</body>
+</html>
